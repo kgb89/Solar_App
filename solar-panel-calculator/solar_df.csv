@@ -1,0 +1,122 @@
+State,City,Year Avg.,Summer Avg.,Winter Avg.
+AL,Montgomery,4.23,4.69,3.37
+AK,Bethel,3.81,6.29,2.37
+AK,Fairbanks,3.99,5.87,2.12
+AK,Mantanuska,3.55,5.24,1.74
+AZ,Page,6.36,7.3,5.65
+AZ,Phoenix,6.58,7.13,5.78
+AZ,Tucson,6.57,7.42,6.01
+AR,Little Rock,4.69,5.29,3.88
+CA,Davis,5.1,6.09,3.31
+CA,Fresno,5.38,6.19,3.42
+CA,Inyokem,7.66,8.7,6.97
+CA,La Jolla,4.77,5.24,4.29
+CA,Los Angeles,5.62,6.14,5.03
+CA,Riverside,5.87,6.35,5.35
+CA,Santa Maria,5.94,6.52,5.42
+CA,Soda Springs,5.6,6.47,4.4
+CO,Boulder,4.87,5.72,4.44
+CO,Granby,5.69,7.47,5.15
+CO,Grand Junction,5.86,6.34,5.23
+CO,Grand Lake,5.08,5.86,3.56
+D. C. Washington,D. C. Washington,4.23,4.69,3.37
+FL,Apalachicola,5.49,5.98,4.92
+FL,Belle Island,4.99,5.31,4.58
+FL,Gainesville,5.27,5.81,4.71
+FL,Miami,5.62,6.26,5.05
+FL,Tampa,5.67,6.16,5.26
+GA,Atlanta,4.74,5.16,4.09
+GA,Griffin,4.99,5.41,4.26
+HI,Honolulu,6.02,6.71,5.59
+IA,Ames,4.4,4.8,3.73
+ID,Twin Falls,4.7,5.42,3.41
+ID,Boise,4.92,5.83,3.33
+IL,Chicago,3.14,4.08,1.47
+IN,Indianapolis,4.21,5.02,2.55
+KS,Dodge City,5.79,4.14,5.28
+KS,Manhattan,4.57,5.08,3.62
+KY,Lexington,4.94,5.97,3.6
+LA,Lake Charles,4.93,5.73,4.29
+LA,New Orleans,4.92,5.71,3.63
+LA,Shreveport,4.63,4.99,3.87
+MA,Blue Hill,4.05,4.38,3.33
+MA,Boston,3.84,4.27,2.99
+MA,E. Wareham,3.99,4.48,3.06
+MA,Lynn,3.79,4.6,2.33
+MA,Natick,4.1,4.62,3.09
+MD,Silver Hill,4.47,4.71,3.84
+ME,Caribou,4.19,5.62,2.57
+ME,Portland,4.51,5.2,3.56
+MI,E. Lansing,4.0,4.71,2.7
+MI,Sault Ste. Marie,4.2,4.83,2.33
+MN,St. Cloud,4.53,5.43,3.53
+MO,Columbia,4.73,5.5,3.97
+MO,St. Louis,3.78,4.87,3.24
+MS,Meridian,4.44,4.86,3.64
+MT,Glasgow,5.15,5.97,4.09
+MT,Great Falls,4.93,5.7,3.66
+MT,Summit,3.99,5.17,2.36
+NC,Cape Hatteras,5.31,5.81,4.69
+NC,Greensboro,4.71,5.05,4.0
+ND,Bismark,5.01,5.48,3.97
+NE,Lincoln,4.79,5.4,4.38
+NE,North Omaha,4.9,5.28,4.26
+NJ,Sea Brook,4.21,4.76,3.2
+NM,Albuquerque,6.77,7.16,6.21
+NV,Ely,5.98,6.48,5.49
+NV,Las Vegas,6.41,7.13,5.83
+NY,Bridge Hampton,3.16,3.93,1.62
+NY,Ithaca,3.79,4.57,2.29
+NY,New York,4.08,4.97,3.03
+NY,Rochester,3.31,4.22,1.58
+NY,Schenectady,3.55,3.92,2.53
+OH,Cleveland,3.94,4.79,2.69
+OH,Columbus,4.15,5.26,2.66
+OK,Oklahoma City,5.59,6.26,4.98
+OK,Stillwater,4.99,5.52,4.22
+OR,Astoria,3.72,4.76,1.99
+OR,Corvallis,4.03,5.71,1.9
+OR,Medford,4.51,5.84,2.02
+PA,Pittsburgh,3.28,4.19,1.45
+PA,State College,3.91,4.44,2.78
+RI,Newport,4.23,4.69,3.58
+SC,Charleston,5.06,5.72,4.23
+SD,Rapid City,5.23,5.91,4.56
+TN,Nashville,4.45,5.2,3.14
+TN,Oak Ridge,4.37,5.06,3.22
+TX,Brownsville,4.92,5.49,4.42
+TX,El Paso,6.72,7.42,5.87
+TX,Fort Worth,5.83,6.0,4.8
+TX,Midland,5.83,6.33,5.23
+TX,San Antonio,5.3,5.88,4.65
+UT,Flaming Gorge,5.83,6.63,5.48
+UT,Salt Lake City,5.26,6.09,3.78
+VA,Richmond,4.13,4.5,3.37
+WA,Prosser,5.03,6.21,3.06
+WA,Pullman,4.73,6.07,2.9
+WA,Richland,4.43,6.13,2.01
+WA,Seattle,3.57,4.83,1.6
+WA,Spokane,4.48,5.53,1.16
+WV,Charleston,3.65,4.12,2.47
+WI,Madison,4.29,4.85,3.28
+WY,Lander,6.06,6.81,5.5
+Alberta,Edmonton,3.75,4.95,2.13
+Alberta,Suffield,4.1,5.19,2.75
+British Columbia,Kamloops,3.29,4.48,1.46
+British Columbia,Prince George,3.14,4.13,1.33
+British Columbia,Vancouver,3.14,4.23,1.33
+Manitoba,The Pas,3.56,5.02,2.02
+Manitoba,Winnipeg New Brunswick,4.02,5.23,2.77
+New Brunswick,Fredericton,3.56,4.23,2.54
+Newfoundland,Goose Bay,3.33,4.65,2.02
+Newfoundland,St. Johns,3.15,3.89,1.83
+Northwest Territory,Fort Smith,3.29,5.16,0.88
+Northwest Territory,Norman Wells,2.89,5.04,0.06
+Nova Scotia,Halifax,3.38,4.02,2.16
+Ontario,Ottawa,3.7,4.63,2.35
+Ontario,Toronto,3.44,3.98,2.13
+Prince Edward Isl.,Charlottetown,3.56,4.31,2.29
+Quebec,Montreal,3.5,4.21,2.29
+Quebec,Sept-Isles,3.5,4.29,2.33
+Saskatchewan,Swift Current,4.23,5.25,2.77
+Yukon,Whitehorse,3.1,4.81,0.69
